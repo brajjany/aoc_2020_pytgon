@@ -1,1 +1,1 @@
-# aoc_2020_pytgon
+# aoc_2020_python
